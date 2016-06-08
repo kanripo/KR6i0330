@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 673
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0330_T_000-0640c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0330_T_001-0640c> ¶¶¶
 #+PROPERTY: JUAN 1
@@ -63,7 +63,7 @@ No. 673 [No. 674]¶
 寶珠、珂玉琉璃珊瑚馬瑙真珠瓔珞并赤真珠，¶
 種種精妙無量香華，作諸音樂及以歌讚，須¶
 向佛所，如來法王三界最勝，無上福聚具足¶
-眾相，一切智見無上福田，我等向彼持此供¶
+眾相，一切知見無上福田，我等向彼持此供¶
 具以用供養。所以者何？於無數時，值佛出世¶
 得見佛難、離八難難、聞三寶難。」
 

@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 673
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0330_T_000-0640c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0330_T_001-0640c> ¶¶¶
 #+PROPERTY: JUAN 1
@@ -692,7 +692,7 @@ No. 673 [No. 674]¶
 妙震聲金威善淨光明現功德寶蓋莊嚴頂相¶
 毘盧遮那王如來、應供、正遍知、明行足、善逝、世¶
 間解、無上士、調御丈夫、天人師、佛、世尊。是最後¶
-生。彼世界者名電寶冠，除諸山阜、坑坎、崖坂、土¶
+生。彼世界者名電寶冠，除諸山垖、坑坎、崖坂、土¶
 石、糞穢，無有女身及惡道等。而彼佛剎清淨¶
 勝彼現在阿彌陀如來佛剎，諸菩薩眾充滿¶
 彼國，劫名善觀明，彼佛如來壽命無量。目犍¶
